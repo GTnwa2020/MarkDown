@@ -12,8 +12,9 @@ class Simple{
     public static void main(String args[]){  
      System.out.println("Hello Java");  
     }  
-}  ```
+} 
+ ```
 
 userstory "003"
 
-![Mountain Pass, Mountains windy roads](https://image.shutterstock.com/image-photo/mountain-pass-mountains-windy-roads-600w-1281902413.jpg)
+![Mountain Pass, Mountains windy roads](https://image.shutterstock.com/image-illustration/explosion-pink-blue-powder-freeze-600w-1077184466.jpg)
