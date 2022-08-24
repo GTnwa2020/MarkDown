@@ -14,8 +14,6 @@ class Simple{
     }  
 }  ```
 
-userstory 003
-```![Mountain Pass, Mountains windy roads](https://www.shutterstock.com/image-photo/mountain-pass-mountains-windy-roads-1281902413g)>
-```
-![Mountain Pass, Mountains windy roads](https://www.shutterstock.com/image-photo/mountain-pass-mountains-windy-roads-1281902413g)
+userstory "003"
 
+![Mountain Pass, Mountains windy roads](https://image.shutterstock.com/image-photo/mountain-pass-mountains-windy-roads-600w-1281902413.jpg)
