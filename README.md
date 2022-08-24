@@ -15,6 +15,5 @@ class Simple{
 }  ```
 
 userstory 003
-```html
-<a href="file name.img">Upload Image</a>
+```![Mountain Pass, Mountains windy roads](https://www.shutterstock.com/image-photo/mountain-pass-mountains-windy-roads-1281902413g)>
 ```
