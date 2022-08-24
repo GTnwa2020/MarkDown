@@ -17,5 +17,4 @@ class Simple{
 userstory 003
 ```html
 <a href="file name.img">Upload Image</a>
-
 ```
