@@ -15,12 +15,18 @@ class Simple{
 } 
  ```
 
+
 userstory 003
 
-![Mountain Pass, Mountains windy roads](https://image.shutterstock.com/image-illustration/explosion-pink-blue-powder-freeze-600w-1077184466.jpg)
+![illustion explosion](https://image.shutterstock.com/image-illustration/explosion-pink-blue-powder-freeze-600w-1077184466.jpg)
 
 
 userstory 004
 ```javascript
    let lastName = Nwankwo
+```
+
+userstory 005
+```
+click [here](https://www.google.com/) to view Google homepage.
 ```
