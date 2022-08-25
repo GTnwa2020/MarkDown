@@ -31,13 +31,20 @@ userstory 005
 [Click here to view Google-seach page](https://www.google.com) 
 
 userstory 006
-```
-
-```
+## Tables
+Projects | Hand-in | Reports
+------ | ------ | ------
+5  |  3  |  4
 
 userstory 010
 ## Lists
-
+Unordered lists
 - projects
 - hand-in
 - reports
+Ordered lists
+1.Projects
+2.Hand-in
+3.Reports
+
+
