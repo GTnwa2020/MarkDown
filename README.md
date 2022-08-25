@@ -46,8 +46,8 @@ Unordered lists
 
 
 Ordered lists
-1.Projects
-2.Hand-in
-3.Reports
+1. Projects
+2. Hand-in
+3. Reports
 
 
