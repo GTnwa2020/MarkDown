@@ -54,10 +54,8 @@ userstory 007
 ```
 ```
 userstory 008
-<<<<<<< HEAD
 ```
 ```
-
 userstory 009
 ```
 ```
@@ -65,6 +63,3 @@ userstory 0011
 ```
 ```
 
-=======
-userstory 009
->>>>>>> main
